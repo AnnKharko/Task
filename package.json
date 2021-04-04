@@ -9,7 +9,8 @@
   "author": "AnnKharko",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
   },
   "devDependencies": {
     "eslint": "^7.23.0",
